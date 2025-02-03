@@ -45,9 +45,10 @@ Ensure you have the following installed:
 ```
 📂 kicad-breakout/
  ├── 📂 hardware/					# KiCad design files
- 		├── 📂 bom/					# Interactive BOM (html)
- 		├── 📂 libraries/			# Please don't forget to include these!
- 		├── 📂 fabrication/			# Fabrication files
+ 	├── 📂 bom/						# Interactive BOM (html)
+ 	├── 📂 documentation/			# Documentation (WIP)
+ 	├── 📂 fabrication/				# Fabrication files
+ 	├── 📂 libraries/				# Please don't forget to include these!
  ├── 📂 firmware/					# Firmware
 ```
 
