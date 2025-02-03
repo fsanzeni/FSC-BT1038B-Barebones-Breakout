@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "FSC-BT1038B")(type "KiCad")(uri "${KIPRJMOD}/Libraries/FSC-BT1038B/FSC-BT1038B.pretty")(options "")(descr ""))
+  (lib (name "TS3425BA")(type "KiCad")(uri "${KIPRJMOD}/Libraries/TS3425BA/TS3425BA.pretty")(options "")(descr ""))
+  (lib (name "KH-MICRO5P-JN")(type "KiCad")(uri "${KIPRJMOD}/Libraries/KH-MICRO5P-JN/KH-MICRO5P-JN.pretty")(options "")(descr ""))
+)
