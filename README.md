@@ -15,6 +15,10 @@ This repository contains the design files for a custom breakout board created in
 -   **Pinout:** all pins are broken out and labeled on the silkscreen. 
 -   **Additional Features:** three status LEDs connected to the LED0, LED1 and LED2 pins. Three user buttons are also present on the board (see silkscreen labelling).
 
+## Schematic
+![FSC-BT1038B Breakout Board Schematic](https://github.com/fsanzeni/FSC-BT1038B-Barebones-Breakout/tree/main/documentation/schematic.jpg?raw=true)
+
+
 ## Checklist
 
 ### 🛠️ Project Status
@@ -44,12 +48,12 @@ Ensure you have the following installed:
 
 ```
 📂 kicad-breakout/
- ├── 📂 hardware/					# KiCad design files
- 	├── 📂 bom/						# Interactive BOM (html)
- 	├── 📂 documentation/			# Documentation (WIP)
- 	├── 📂 fabrication/				# Fabrication files
- 	├── 📂 libraries/				# Please don't forget to include these!
- ├── 📂 firmware/					# Firmware
+ ├── 📂 hardware/				# KiCad design files
+ 	├── 📂 bom/					# Interactive BOM (html)
+ 	├── 📂 documentation/		# Documentation (WIP)
+ 	├── 📂 fabrication/			# Fabrication files
+ 	├── 📂 libraries/			# Please don't forget to include these!
+ ├── 📂 firmware/				# Firmware
 ```
 
 ## Contribution
