@@ -16,7 +16,7 @@ This repository contains the design files for a custom breakout board created in
 -   **Additional Features:** three status LEDs connected to the LED0, LED1 and LED2 pins. Three user buttons are also present on the board (see silkscreen labelling).
 
 ## Schematic
-![FSC-BT1038B Breakout Board Schematic](https://github.com/fsanzeni/FSC-BT1038B-Barebones-Breakout/blob/main/documentation/schematic.jpg)
+![FSC-BT1038B Breakout Board Schematic](documentation/schematic.jpg)
 
 
 ## Checklist
