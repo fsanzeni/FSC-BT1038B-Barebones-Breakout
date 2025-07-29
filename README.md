@@ -28,11 +28,11 @@ This repository contains the design files for a custom breakout board created in
 | Schematic | ✅ Done |
 | PCB Layout | ✅ Done |
 | Gerber Files | ✅ Generated |
-| Fabrication | 🔄 In Progress |
-| Assembly | 🔲 Not Started |
-| Testing | 🔲 Not Started |
-| Firmware | 🔲 Not Started |
-| Documentation | 🔄 Work in Progress |
+| Fabrication | ✅ Done |
+| Assembly | ✅ Done |
+| Testing | ✅ Done |
+| Firmware | 🔄 In Progress |
+| Documentation | 🔄 In Progress |
 
 
 ## Getting Started
