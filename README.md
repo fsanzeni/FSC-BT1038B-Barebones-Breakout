@@ -34,6 +34,7 @@ This repository contains the design files for a custom breakout board created in
 | Firmware | 🔄 In Progress |
 | Documentation | 🔄 In Progress |
 
+Please note - the board has been tested and functions as intended.
 
 ## Getting Started
 
